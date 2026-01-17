@@ -43,3 +43,9 @@ final_price = movie_ticket_price * (100-discount_rate) / 100
 print(f"Starting price for ticket is {movie_ticket_price}$")
 print(f"Applying discount of {discount_rate}%")
 print(f"Final price for your ticket is {final_price}$")
+
+def greet():
+    print("Hello World")
+
+greet()
+
