@@ -49,3 +49,8 @@ def greet():
 
 greet()
 
+import random
+
+
+num = random.randint(20, 50)
+print(num)
